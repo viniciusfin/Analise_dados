@@ -1,0 +1,1 @@
+Projetos envolvendo conhecimentos da área de análise de dados
