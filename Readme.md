@@ -2,12 +2,12 @@ Alguns projetos envolvendo conhecimentos iniciais da área de análise de dados 
 
 
 Conteúdo:
--Importando dados
--Series e Index
--Filtrando dados
--Frequências
--Tratando dados faltantes
--Novas Variáveis
--Estatísticas descritivas
--Removendo Outliers
+- Importando dados
+- Series e Index
+- Filtrando dados
+- Frequências
+- Tratando dados faltantes
+- Novas Variáveis
+- Estatísticas descritivas
+- Removendo Outliers
 
